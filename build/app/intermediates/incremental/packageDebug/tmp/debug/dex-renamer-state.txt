@@ -1,0 +1,4 @@
+#Fri Feb 04 11:26:10 ALMT 2022
+base.0=E\:\\Programming\\autogen_serializtion\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
